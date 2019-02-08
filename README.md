@@ -1,2 +1,2 @@
-# react-boilerplate
-Personal boilerplate
+# Personal boilerplate
+Use it at your own responsibilty 
