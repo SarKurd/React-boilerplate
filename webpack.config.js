@@ -102,7 +102,8 @@ module.exports = (env, argv) => {
       contentBase: path.join(__dirname, "public/"),
       publicPath: "/",
       port: 3000,
-      hotOnly: true
+      hotOnly: true,
+      clientLogLevel: "none"
     }
   };
 };
